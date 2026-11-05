@@ -10,3 +10,5 @@ This report follows the structure requested in the assignment: the core subject 
 The article addresses the automated analysis of design patterns in two directions:
 • Detection (reverse engineering): given existing artifacts such as source code or UML models, find which classes play which roles in which pattern. Detection is artifact-driven and structurally grounded.
 • Recommendation (forward engineering): given a textual requirement or design problem, suggest an appropriate pattern. Recommendation is problem-driven and semantically grounded.
+2.2 Objective
+The authors state that their aim is to provide a systematic and evolutionary synthesis of approaches published between 2015 and 2025, to classify them into technological paradigms, and to identify open research challenges. They claim novelty in presenting the first multi-paradigm, evolutionary integration for this period, whereas earlier surveys usually focused on a single family of methods (for example only graph-based or only ML-based detection).
