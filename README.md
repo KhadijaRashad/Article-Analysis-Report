@@ -12,3 +12,15 @@ The article addresses the automated analysis of design patterns in two direction
 • Recommendation (forward engineering): given a textual requirement or design problem, suggest an appropriate pattern. Recommendation is problem-driven and semantically grounded.
 2.2 Objective
 The authors state that their aim is to provide a systematic and evolutionary synthesis of approaches published between 2015 and 2025, to classify them into technological paradigms, and to identify open research challenges. They claim novelty in presenting the first multi-paradigm, evolutionary integration for this period, whereas earlier surveys usually focused on a single family of methods (for example only graph-based or only ML-based detection).
+2.3 Research questions
+RQ
+Question (paraphrased)
+RQ1
+How did detection and recommendation approaches evolve between 2015 and 2025?
+RQ2
+How do the paradigms compare in performance, scalability, pattern coverage and variant detection?
+RQ3
+Which datasets, languages and evaluation protocols are used, and how do they affect generalizability?
+RQ4
+What open challenges remain and which future directions can address them?
+The questions are well chosen: RQ1 is descriptive, RQ2 is comparative, RQ3 is a meta-research question about evidence quality, and RQ4 is prescriptive. Together they move from what happened to how good is the evidence to what should happen next.
