@@ -24,3 +24,7 @@ Which datasets, languages and evaluation protocols are used, and how do they aff
 RQ4
 What open challenges remain and which future directions can address them?
 The questions are well chosen: RQ1 is descriptive, RQ2 is comparative, RQ3 is a meta-research question about evidence quality, and RQ4 is prescriptive. Together they move from what happened to how good is the evidence to what should happen next.
+3. Methods and Technological Approaches
+3.1 Review method
+The authors follow Kitchenham and Charters' evidence-based software engineering guidelines and PRISMA principles. A protocol was defined before screening. The process was:
+1. Identification: a Web of Science query combining three keyword sets (A: design pattern, GoF; B: software, source code, UML, graph, static or dynamic analysis, refactoring; C: detection, identification, recognition, classification, recommendation, pattern role, micro-architecture), restricted to peer-reviewed English journal and conference papers from 2015–2025. This returned 212 records.
