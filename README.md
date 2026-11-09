@@ -28,3 +28,6 @@ The questions are well chosen: RQ1 is descriptive, RQ2 is comparative, RQ3 is a 
 3.1 Review method
 The authors follow Kitchenham and Charters' evidence-based software engineering guidelines and PRISMA principles. A protocol was defined before screening. The process was:
 1. Identification: a Web of Science query combining three keyword sets (A: design pattern, GoF; B: software, source code, UML, graph, static or dynamic analysis, refactoring; C: detection, identification, recognition, classification, recommendation, pattern role, micro-architecture), restricted to peer-reviewed English journal and conference papers from 2015–2025. This returned 212 records.
+2. 1. Screening: 126 records were excluded on title and abstract (unrelated fields, keyword collisions such as GoF meaning Goodness of Fit or Gain of Function, theoretical-only papers, secondary studies, short papers).
+2. Eligibility: 86 full texts were assessed, and 20 were excluded (6 not an automated method, 5 without empirical validation, 9 out of scope).
+3. Inclusion: 66 primary studies were synthesized.
