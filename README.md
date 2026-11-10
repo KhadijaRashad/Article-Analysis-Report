@@ -31,3 +31,5 @@ The authors follow Kitchenham and Charters' evidence-based software engineering 
 2. 1. Screening: 126 records were excluded on title and abstract (unrelated fields, keyword collisions such as GoF meaning Goodness of Fit or Gain of Function, theoretical-only papers, secondary studies, short papers).
 2. Eligibility: 86 full texts were assessed, and 20 were excluded (6 not an automated method, 5 without empirical validation, 9 out of scope).
 3. Inclusion: 66 primary studies were synthesized.
+4. 1. Inclusion: 66 primary studies were synthesized.
+Quality was assessed with five criteria (clarity of method, transparency of setup, adequacy of metrics, dataset reporting, discussion of threats), each scored Yes (1), Partly (0.5) or No (0), by two independent reviewers. Agreement was reported as Cohen's kappa = 0.82. Because the studies are heterogeneous, no statistical meta-analysis was attempted; instead a qualitative, normalized, evidence-based coding was used.
